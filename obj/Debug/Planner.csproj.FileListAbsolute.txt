@@ -1,0 +1,11 @@
+c:\users\opilane\source\repos\Planner\Planner\obj\Debug\Planner.csprojAssemblyReference.cache
+c:\users\opilane\source\repos\Planner\Planner\obj\Debug\Hangman.baml
+c:\users\opilane\source\repos\Planner\Planner\obj\Debug\Entry.g.cs
+c:\users\opilane\source\repos\Planner\Planner\obj\Debug\EventPlanner.g.cs
+c:\users\opilane\source\repos\Planner\Planner\obj\Debug\Hangman.g.cs
+c:\users\opilane\source\repos\Planner\Planner\obj\Debug\MainWindow.g.cs
+c:\users\opilane\source\repos\Planner\Planner\obj\Debug\Vacation.g.cs
+c:\users\opilane\source\repos\Planner\Planner\obj\Debug\App.g.cs
+c:\users\opilane\source\repos\Planner\Planner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\opilane\source\repos\Planner\Planner\obj\Debug\Planner_MarkupCompile.cache
+c:\users\opilane\source\repos\Planner\Planner\obj\Debug\Planner_MarkupCompile.lref
